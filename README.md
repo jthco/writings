@@ -1,2 +1,2 @@
 # writings
-Various pieces of writing
+Various pieces of writing.
